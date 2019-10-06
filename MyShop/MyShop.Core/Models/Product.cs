@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyShop.Core
+namespace MyShop.Core.Models
 {
     public class Product
     {
